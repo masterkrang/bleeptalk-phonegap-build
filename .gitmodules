@@ -1,0 +1,3 @@
+[submodule "assets/javascripts/jquery-mobile-foursquare-suggest"]
+	path = assets/javascripts/jquery-mobile-foursquare-suggest
+	url = git@github.com:masterkrang/jquery-mobile-foursquare-suggest.git
