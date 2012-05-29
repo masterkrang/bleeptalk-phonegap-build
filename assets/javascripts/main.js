@@ -8,5 +8,5 @@ $( '#main' ).live( 'pageinit', function(event) {
 	
 	// Options: retrieve the location every 3 seconds
 	//
-	var watchID = navigator.geolocation.watchPosition(onSuccess, onError, { frequency: 6000 });
+	//var watchID = navigator.geolocation.watchPosition(onSuccess, onError, { frequency: 6000 });
 });
