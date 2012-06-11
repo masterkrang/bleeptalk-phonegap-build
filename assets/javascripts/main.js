@@ -3,7 +3,8 @@ $( '#main' ).live( 'pageinit', function(event) {
 	
 	$("#search").mobile_fs_suggest({
 		'client_id'		: '2RIEFGJ11QYCMK1KW2RECDINMBWEL2IMUWYUC4MGGYGQQBDL',
-		'client_secret'	: '02SA1F4ZLE3SRFJUM0RKLGJRVWS43M1EAG4DYZEFP1SFISU3'
+		'client_secret'	: '02SA1F4ZLE3SRFJUM0RKLGJRVWS43M1EAG4DYZEFP1SFISU3',
+		'list_id' : 'results_list'
 	});
 	
 	// Options: retrieve the location every 3 seconds
